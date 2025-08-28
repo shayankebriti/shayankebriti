@@ -47,5 +47,7 @@ Below are some of my notable public repositories, organized by category:
 
 ### Hardware
 - [shayankebriti/Flappy-Bird-Assembly](https://github.com/shayankebriti/Flappy-Bird-Assembly)
+- [shayankebriti/Smart-Car](https://github.com/shayankebriti/Smart-Car)
+- [shayankebriti/Embedded-Archive](https://github.com/shayankebriti/Embedded-Archive)
 - [shayankebriti/verilog-archive](https://github.com/shayankebriti/verilog-archive)
 - [shayankebriti/assembly-archive](https://github.com/shayankebriti/assembly-archive)
