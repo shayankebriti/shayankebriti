@@ -17,12 +17,12 @@ Below are some of my notable public repositories, organized by category:
 - [shayankebriti/Fashion-Product-Name-Generation](https://github.com/shayankebriti/Fashion-Product-Name-Generation)
 - [shayankebriti/Book-Summary-Image-Generation](https://github.com/shayankebriti/Book-Summary-Image-Generation)
 
-### Time Series, Statistics, and Data Analytics
+### Time Series & Data Analytics
 - [shayankebriti/Crypto-BTC-USDT-Analysis](https://github.com/shayankebriti/Crypto-BTC-USDT-Analysis)
 - [shayankebriti/Delta-ir-Crawler](https://github.com/shayankebriti/Delta-ir-Crawler)
 - [shayankebriti/R-assignments](https://github.com/shayankebriti/R-assignments)
 
-### ML and DS
+### ML & Data Science
 - [shayankebriti/ML-assignments](https://github.com/shayankebriti/ML-assignments)
 - [shayankebriti/Kaggle-Titanic-Challenge](https://github.com/shayankebriti/Kaggle-Titanic-Challenge)
 - [shayankebriti/Complementary-School](https://github.com/shayankebriti/Complementary-School)
