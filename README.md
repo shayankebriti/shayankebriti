@@ -12,6 +12,9 @@ Below are some of my notable public repositories, organized by category:
 - [shayankebriti/Fashion-Product-Name-Generation](https://github.com/shayankebriti/Fashion-Product-Name-Generation)
 - [shayankebriti/Book-Summary-Image-Generation](https://github.com/shayankebriti/Book-Summary-Image-Generation)
 
+### Graph Neural Networks
+- [shayankebriti/HIV-Inhibitors-Classification](https://github.com/shayankebriti/HIV-Inhibitors-Classification)
+
 ### NLP
 - [shayankebriti/Persian-Name-Gender-Prediction](https://github.com/shayankebriti/Persian-Name-Gender-Prediction)
 - [shayankebriti/Fashion-Product-Name-Generation](https://github.com/shayankebriti/Fashion-Product-Name-Generation)
