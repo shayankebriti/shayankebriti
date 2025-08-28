@@ -2,7 +2,7 @@ Hi. My name is Shayan Kebriti. I'm an **AI** and **Data Science** enthusiast.
 
 Below are some of my notable public repositories, organized by category:
 
-### Computer Vision and Medical Imaging
+### Computer Vision & Medical Imaging
 - [shayankebriti/FractMorph](https://github.com/shayankebriti/FractMorph)
 - [shayankebriti/Conditional-Diffusion-CIFAR10](https://github.com/shayankebriti/Conditional-Diffusion-CIFAR10)
 - [shayankebriti/Siamese-Face-Recognition](https://github.com/shayankebriti/Siamese-Face-Recognition)
