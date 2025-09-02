@@ -58,6 +58,7 @@ Below are some of my notable public repositories, organized by category (Click t
   <summary>💻 Software</summary>
   
   - [shayankebriti/Peddit](https://github.com/shayankebriti/Peddit)
+  - [shayankebriti/Compiler-Project](https://github.com/shayankebriti/Compiler-Project)
   - [shayankebriti/Minesweeper-Game](https://github.com/shayankebriti/Minesweeper-Game)
   - [shayankebriti/DS-project](https://github.com/shayankebriti/DS-project)
   - [shayankebriti/Spotify_API](https://github.com/shayankebriti/Spotify_API)
