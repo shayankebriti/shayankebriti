@@ -16,16 +16,12 @@ Below are some of my notable public repositories, organized by category.
 
 
 ### Graph Neural Networks  
-
+- [TD3-GNN-Multi-Asset-Trader](https://github.com/shayankebriti/TD3-GNN-Multi-Asset-Trader) — Multi-Asset Trading with TD3 RL Agent and Wavelet-Coherence Graph Neural Networks
 - [HIV-Inhibitors-Classification](https://github.com/shayankebriti/HIV-Inhibitors-Classification) — Molecular property prediction with GNNs  
 
-
-### Natural Language Processing  
-
-- [Persian-Name-Gender-Prediction](https://github.com/shayankebriti/Persian-Name-Gender-Prediction)  
-- [Fashion-Product-Name-Generation](https://github.com/shayankebriti/Fashion-Product-Name-Generation)  
-- [Book-Summary-Image-Generation](https://github.com/shayankebriti/Book-Summary-Image-Generation)  
-
+### Deep Reinforcement Learning
+- [TD3-GNN-Multi-Asset-Trader](https://github.com/shayankebriti/TD3-GNN-Multi-Asset-Trader)
+- [DRL-assignments](https://github.com/shayankebriti/DRL-assignments) — FrozenLake, DQN, D3QN, D3QN_PER, C51_D3QN, A2C
 
 ### Time Series & Data Analytics  
 
@@ -33,6 +29,11 @@ Below are some of my notable public repositories, organized by category.
 - [Delta-ir-Crawler](https://github.com/shayankebriti/Delta-ir-Crawler)  
 - [R-assignments](https://github.com/shayankebriti/R-assignments)  
 
+### Natural Language Processing  
+
+- [Persian-Name-Gender-Prediction](https://github.com/shayankebriti/Persian-Name-Gender-Prediction)  
+- [Fashion-Product-Name-Generation](https://github.com/shayankebriti/Fashion-Product-Name-Generation)  
+- [Book-Summary-Image-Generation](https://github.com/shayankebriti/Book-Summary-Image-Generation)  
 
 ### Machine Learning & Data Science  
 
