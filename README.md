@@ -9,11 +9,11 @@ Below are some of my notable public repositories, organized by category.
 - [FractMorph](https://github.com/shayankebriti/FractMorph) — Fractional Fourier-based multi-domain transformer for 3D deformable image registration  
 - [Conditional-Diffusion-CIFAR10](https://github.com/shayankebriti/Conditional-Diffusion-CIFAR10) — Conditional diffusion model for controlled image generation  
 - [Siamese-Face-Recognition](https://github.com/shayankebriti/Siamese-Face-Recognition) — Deep metric learning for facial recognition  
-- [Rock-Paper-Scissors-Simulator](https://github.com/SBUformers/Rock-Paper-Scissors-Simulator) — Gesture recognition and simulation  
+- [Rock-Paper-Scissors-Simulator](https://github.com/SBUformers/Rock-Paper-Scissors-Simulator) — Gesture recognition and simulation
+- [Computer-Vision-assignments](https://github.com/shayankebriti/Computer-Vision-assignments) — Image compression, Watermarking, VAE, GAN, NLM filter implementation, Classical image processing
 - [Fashion-Product-Multilabel-Classification](https://github.com/shayankebriti/Fashion-Product-Multilabel-Classification)  
 - [Fashion-Product-Name-Generation](https://github.com/shayankebriti/Fashion-Product-Name-Generation)  
 - [Book-Summary-Image-Generation](https://github.com/shayankebriti/Book-Summary-Image-Generation)
-- [Computer-Vision-assignments](https://github.com/shayankebriti/Computer-Vision-assignments) — Image compression, Watermarking, VAE, GAN, NLM filter implementation, Classical image processing
 
 
 ### Graph Neural Networks  
