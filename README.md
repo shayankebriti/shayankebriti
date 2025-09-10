@@ -12,7 +12,8 @@ Below are some of my notable public repositories, organized by category.
 - [Rock-Paper-Scissors-Simulator](https://github.com/SBUformers/Rock-Paper-Scissors-Simulator) — Gesture recognition and simulation  
 - [Fashion-Product-Multilabel-Classification](https://github.com/shayankebriti/Fashion-Product-Multilabel-Classification)  
 - [Fashion-Product-Name-Generation](https://github.com/shayankebriti/Fashion-Product-Name-Generation)  
-- [Book-Summary-Image-Generation](https://github.com/shayankebriti/Book-Summary-Image-Generation)  
+- [Book-Summary-Image-Generation](https://github.com/shayankebriti/Book-Summary-Image-Generation)
+- [Computer-Vision-assignments](https://github.com/shayankebriti/Computer-Vision-assignments) — Image compression, Watermarking, VAE, GAN, NLM filter implementation, Classical image processing
 
 
 ### Graph Neural Networks  
