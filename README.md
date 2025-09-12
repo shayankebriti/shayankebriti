@@ -4,11 +4,10 @@ Hi! I'm Shayan Kebriti, an AI and Data Science researcher and engineer.
 
 My research interests include `machine learning`, `computer vision`, `medical imaging`, and `graph neural networks`.
 
-[![Personal Website](https://img.shields.io/badge/Website-2ea44f?style=flat-square&logo=google-chrome&logoColor=white)](https://shayankebriti.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shayan-kebriti)
-[![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=uj1R5J4AAAAJ)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shayankebriti@gmail.com)
-
+[![Website](https://img.shields.io/badge/-Website-2ea44f?style=flat&logo=google-chrome&logoColor=white&labelColor=2ea44f)](https://shayankebriti.github.io/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/shayan-kebriti)
+[![Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white&labelColor=4285F4)](https://scholar.google.com/citations?user=uj1R5J4AAAAJ)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836)](mailto:shayankebriti@gmail.com)
 
 Below are some of my notable public repositories, organized by category (Click to expand):
 
