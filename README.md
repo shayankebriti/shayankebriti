@@ -7,6 +7,7 @@ My research interests include `machine learning`, `computer vision`, `medical im
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-2ea44f?style=flat&logo=google-chrome&logoColor=white&labelColor=2ea44f)](https://shayankebriti.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/shayan-kebriti)
 [![Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white&labelColor=4285F4)](https://scholar.google.com/citations?user=uj1R5J4AAAAJ)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white&labelColor=20BEFF)](https://kaggle.com/shayankebriti)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836)](mailto:shayankebriti@gmail.com)
 
 
