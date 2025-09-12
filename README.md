@@ -1,6 +1,8 @@
 # About Me 
 
-Hi! I'm Shayan Kebriti, a researcher and engineer passionate about `machine learning`, `computer vision`, `medical imaging`, and `graph neural networks`.
+Hi! I'm Shayan Kebriti, an AI and Data Science researcher and engineer.
+
+My research interests include `machine learning`, `computer vision`, `medical imaging`, and `graph neural networks`.
 
 [![Personal Website](https://img.shields.io/badge/Website-2ea44f?style=flat-square&logo=google-chrome&logoColor=white)](https://shayankebriti.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shayan-kebriti)
