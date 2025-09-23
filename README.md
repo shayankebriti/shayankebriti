@@ -16,6 +16,7 @@ Below are some of my notable public repositories, organized by category (Click t
 <details>
 <summary><strong>Computer Vision & Medical Imaging</strong></summary>
 
+- [MedMesh](https://github.com/shayankebriti/MedMesh) — An easy-to-use, lightweight tool for converting medical images into 3D meshes
 - [FractMorph](https://github.com/shayankebriti/FractMorph) — Fractional Fourier-based multi-domain transformer for 3D deformable image registration  
 - [Conditional-Diffusion-CIFAR10](https://github.com/shayankebriti/Conditional-Diffusion-CIFAR10) — Conditional diffusion model for controlled image generation  
 - [Siamese-Face-Recognition](https://github.com/shayankebriti/Siamese-Face-Recognition) — Deep metric learning for facial recognition  
