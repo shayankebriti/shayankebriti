@@ -103,5 +103,3 @@ Below are some of my notable public repositories, organized by category (Click t
 - [assembly-archive](https://github.com/shayankebriti/assembly-archive)  
 
 </details>
-
-![](https://komarev.com/ghpvc/?username=shayankebriti&color=grey)
