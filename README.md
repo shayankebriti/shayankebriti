@@ -46,7 +46,8 @@ Below are some of my notable public repositories, organized by category (Click t
 
 <details>
 <summary><strong>Time Series & Data Analytics</strong></summary>
-
+  
+- [TD3-GNN-Multi-Asset-Trader](https://github.com/shayankebriti/TD3-GNN-Multi-Asset-Trader)  
 - [Crypto-BTC-USDT-Analysis](https://github.com/shayankebriti/Crypto-BTC-USDT-Analysis)  
 - [Delta-ir-Crawler](https://github.com/shayankebriti/Delta-ir-Crawler)  
 - [R-assignments](https://github.com/shayankebriti/R-assignments)  
